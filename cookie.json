@@ -1,0 +1,29 @@
+[
+    {
+        "name": "cf_clearance",
+        "value": "Mh89hR19_IK8N0zj.4m2SED1QYcEavLPpyTdyDT9YQU-1756372156-1.2.1.1-YHaP.RSrIa273fiAiog8gWWNenZYZZzsyJnh4yPcNySWcF.f3QCQB_ySVkqNlWUa_ossMXslTvhUgFaj1Apfj0_zczQv7x3fnRXlYDxuHi3VYP8DM3VW7c5ihXKyXsZEVf4hzNlgCszO6_MuUZMTdH4NycWuc49o06k8ZqdKpj2sP5.7PxNFc6tM6Obo0BJ8R5v.E7gxX3VE60Am.nzH3ssGxzpKCAFEJ3UiE2vlWmc",
+        "domain": ".medicafoundation.org",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "__cf_bm",
+        "value": "8fS1UGEFFI3wxsOTRh1Z2Tr89lSBOcw1mV0Yd_ZBR5o-1756371391-1.0.1.1-Fi7EOi6YB2rl6qbi8Leqmo4DF8gZ9NU135mGtbZ8BxMyF_IxrINOO1695RsTFT5xxtnnlU3ub0vHyfnf7XhK6awtcQNaimUZzXuWYJT3XWA",
+        "domain": ".medica.com",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "__cf_bm",
+        "value": "YT4l85Dhbt54sLig88QxMmtsJxON0eoHAk.5geD0lKE-1756371318-1.0.1.1-CsbrtHhBzsJwnHLjOHvDTrEELpbL.ZwI1CYhU5UglW65jvbea.BU9e4pqdsHvJkv73iGNAs1HnSG0TX8YemWpk2ZghlLZDutp2wBMUu6AUM",
+        "domain": ".medicafoundation.org",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    }
+]
