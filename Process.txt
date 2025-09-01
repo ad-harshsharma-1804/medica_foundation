@@ -1,0 +1,13 @@
+# using python version 3+
+# in terminal run -> python3 -m venv venv
+# in terminal run -> source venv/bin/activate
+# install required librabries
+# cd to folder where scripts are stored 
+# in terminal run -> pip install playwright, scipy, matplotlib
+# in terminal run -> playwright install
+# explore medicafoundation.org and manually copy following 3 cookies from the application properties
+    - cf_clearance
+    - __cf_bm (for .medica.com)
+    - __cf_bm (for .medicafoundation.org)
+# in terminal run -> python3 -u save_session.py
+# in terminal run -> python3 -u medica_scrap.py
