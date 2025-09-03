@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 # === CONFIG ===
 START_URL = "https://www.medicafoundation.org/"
-OUTPUT_ROOT = "medica_foundation"
+OUTPUT_ROOT = "DEV/medica_foundation"
 CSV_FILE = os.path.join(OUTPUT_ROOT, "crawl_assets.csv")
 COOKIE_FILE = "cookies.json"
 STORAGE_FILE = "storage.json"
