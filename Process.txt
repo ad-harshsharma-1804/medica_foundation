@@ -3,11 +3,14 @@
 # in terminal run -> source venv/bin/activate
 # install required librabries
 # cd to folder where scripts are stored 
-# in terminal run -> pip install playwright, scipy, matplotlib
+# in terminal run -> pip install playwright, scipy, , beautifulsoup4
 # in terminal run -> playwright install
-# explore medicafoundation.org and manually copy following 3 cookies from the application properties
-    - cf_clearance
-    - __cf_bm (for .medica.com)
-    - __cf_bm (for .medicafoundation.org)
-# in terminal run -> python3 -u save_session.py
-# in terminal run -> python3 -u medica_scrap.py
+ 
+ later 
+
+Step 1 GO to normal browser and look for the cookies in inspect/application/cookie with name "__cf_bm (for both .medica.com and .medicafoundation.org), cf_clearance"
+Strp 2 Update cookie-value in DEV/executables/cookie.json
+Step 3 in terminal cd to executables and run -> python3 -u save_session.py
+Step 4 in terminal cd to DEV and run -> python3 -u executables/medica_scrap.py
+Step 5 in terminal cd to DEV and run -> python3 -u executables/updateHTMLs.py medica_foundation_dev --remove contact-footer,footer
+Step 6 in terminal cd to medica_foundation_dev and run -> python3 -m http.server
